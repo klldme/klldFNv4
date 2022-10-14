@@ -1,0 +1,24 @@
+Metadata-Version: 2.0
+Name: oimbot
+Version: 10.2.0
+Summary: Lobby bot.
+Home-page: https://www.youtube.com/
+Author: Aeroz
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: BenBotAsync
+Requires-Dist: FortniteAPIAsync
+Requires-Dist: PirxcyPinger
+Requires-Dist: aiohttp
+Requires-Dist: crayons
+Requires-Dist: fortnitepy (==3.6.7)
+Requires-Dist: requests
+Requires-Dist: sanic (==21.6.2)
+
+UNKNOWN
+
+
